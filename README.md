@@ -20,7 +20,7 @@
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrRockySL&show_icons=true&hide_border=true&include_all_commits=true" width="48%" alt="GitHub stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrRockySL&theme=default" width="48%" alt="GitHub stats">
   <img src="https://streak-stats.demolab.com?user=MrRockySL&hide_border=true" width="48%" alt="GitHub streak">
 </p>
 
