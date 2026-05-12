@@ -20,8 +20,14 @@
 ### Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrRockySL&theme=default" width="48%" alt="GitHub stats">
-  <img src="https://streak-stats.demolab.com?user=MrRockySL&hide_border=true" width="48%" alt="GitHub streak">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrRockySL&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrRockySL&theme=default" width="48%" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MrRockySL&theme=dark&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=MrRockySL&theme=default&hide_border=true" width="48%" alt="GitHub streak">
+  </picture>
 </p>
 
 **Toolbox:** TypeScript, Python, Git
