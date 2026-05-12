@@ -14,7 +14,7 @@
 ### Recent contributions to <a href="https://github.com/nexu-io/open-design">nexu-io/open-design</a>
 
 - [#1208](https://github.com/nexu-io/open-design/pull/1208) — model-picker fix (reported in [#1200](https://github.com/nexu-io/open-design/issues/1200)) · [writeup](https://github.com/MrRockySL/open-design-acp-model-selection-fix)
-- [#1286](https://github.com/nexu-io/open-design/pull/1286) — chat-stuck-in-working fix (reported in [#1265](https://github.com/nexu-io/open-design/issues/1265))
+- [#1286](https://github.com/nexu-io/open-design/pull/1286) — chat-stuck-in-working fix (reported in [#1265](https://github.com/nexu-io/open-design/issues/1265)) · [writeup](https://github.com/MrRockySL/open-design-acp-session-lifecycle-fix)
 - [#1413](https://github.com/nexu-io/open-design/pull/1413) — model-badge stale-detail fix (reported in [#1410](https://github.com/nexu-io/open-design/issues/1410)) · [writeup](https://github.com/MrRockySL/open-design-model-badge-stale-fix)
 
 ### Stats
