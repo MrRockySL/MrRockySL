@@ -16,6 +16,7 @@
 - [#1208](https://github.com/nexu-io/open-design/pull/1208) — model-picker fix (reported in [#1200](https://github.com/nexu-io/open-design/issues/1200)) · [writeup](https://github.com/MrRockySL/open-design-acp-model-selection-fix)
 - [#1286](https://github.com/nexu-io/open-design/pull/1286) — chat-stuck-in-working fix (reported in [#1265](https://github.com/nexu-io/open-design/issues/1265)) · [writeup](https://github.com/MrRockySL/open-design-acp-session-lifecycle-fix)
 - [#1413](https://github.com/nexu-io/open-design/pull/1413) — model-badge stale-detail fix (reported in [#1410](https://github.com/nexu-io/open-design/issues/1410)) · [writeup](https://github.com/MrRockySL/open-design-model-badge-stale-fix)
+- [#1491](https://github.com/nexu-io/open-design/pull/1491) — Chinese i18n for template platform selection + Companion surfaces (reported in [#1415](https://github.com/nexu-io/open-design/issues/1415)) · [writeup](https://github.com/MrRockySL/open-design-template-platform-i18n-fix)
 
 ### Stats
 
