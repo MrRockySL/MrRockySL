@@ -19,6 +19,10 @@
 - [#1491](https://github.com/nexu-io/open-design/pull/1491) — Chinese i18n for template platform selection + Companion surfaces (reported in [#1415](https://github.com/nexu-io/open-design/issues/1415)) · [writeup](https://github.com/MrRockySL/open-design-template-platform-i18n-fix)
 - [#1523](https://github.com/nexu-io/open-design/pull/1523) — routine reuse-mode conversation-created SSE event + concurrency guards (reported in [#1361](https://github.com/nexu-io/open-design/issues/1361)) · [writeup](https://github.com/MrRockySL/open-design-routine-conversation-refresh-fix)
 
+### Currently building
+
+- [**Nimbus**](https://github.com/MrRockySL/nimbus) — client for Devin AI. Coming soon...
+
 ### Stats
 
 <p align="center">
