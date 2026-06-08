@@ -19,9 +19,9 @@
 - [#1491](https://github.com/nexu-io/open-design/pull/1491) — Chinese i18n for template platform selection + Companion surfaces (reported in [#1415](https://github.com/nexu-io/open-design/issues/1415)) · [writeup](https://github.com/MrRockySL/open-design-template-platform-i18n-fix)
 - [#1523](https://github.com/nexu-io/open-design/pull/1523) — routine reuse-mode conversation-created SSE event + concurrency guards (reported in [#1361](https://github.com/nexu-io/open-design/issues/1361)) · [writeup](https://github.com/MrRockySL/open-design-routine-conversation-refresh-fix)
 
-### Currently building
+### Projects
 
-- [**Nimbus**](https://github.com/MrRockySL/nimbus) — client for Devin AI. Coming soon...
+- [**Unduck Pro**](https://github.com/MrRockySL/Unduck-Pro) — a free, open-source macOS menu-bar app that keeps your media at full volume during FaceTime/Zoom/Meet calls, with a built-in per-app volume mixer and output switcher. I built it because the only fixes out there were paid apps.
 
 ### Stats
 
@@ -36,4 +36,4 @@
   </picture>
 </p>
 
-**Toolbox:** TypeScript, Python, Git
+**Toolbox:** TypeScript, Python, Swift, Git
