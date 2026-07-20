@@ -15,7 +15,7 @@
 
 - [**Muro**](https://github.com/MrRockySL/Muro) · a free, open-source macOS app that plays live video wallpapers across every display at around 2% CPU. Native Swift rather than Electron, and it pauses itself the moment you can't see it.
 - [**Unduck Pro**](https://github.com/MrRockySL/Unduck-Pro) · a free, open-source macOS menu-bar app that keeps your media at full volume during FaceTime/Zoom/Meet calls, with a built-in per-app volume mixer and output switcher. I built it because the only fixes out there were paid apps.
-- **Islet** · a Dynamic Island for the Mac notch: media controls, calendar, a file shelf, an on-device file converter and live AI agent limits. Not public yet.
+- [**Islet**](https://github.com/MrRockySL/Islet) · a free, open-source Dynamic Island for the Mac notch with media controls, calendar, a file shelf, an on-device file converter and live AI agent limits.
 
 ---
 
